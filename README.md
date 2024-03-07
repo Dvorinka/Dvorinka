@@ -78,9 +78,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Dvorinka/Dvorinka/output/snake.svg" alt="Snake animation" />
-
-###
