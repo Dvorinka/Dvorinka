@@ -1,0 +1,72 @@
+{
+  "mcpServers": {
+    "@magicuidesign/mcp": {
+      "args": [
+        "-y",
+        "@magicuidesign/mcp@latest"
+      ],
+      "command": "npx"
+    },
+    "ark-ui": {
+      "args": [
+        "-y",
+        "@ark-ui/mcp"
+      ],
+      "command": "npx"
+    },
+    "base-ui": {
+      "args": [
+        "base-ui-mcp-server",
+        "mcp"
+      ],
+      "command": "npx"
+    },
+    "mcp-playwright": {
+      "args": [
+        "-y",
+        "@playwright/mcp@latest"
+      ],
+      "command": "npx"
+    },
+    "motion-dev": {
+      "args": [
+        "./dist/index.js"
+      ],
+      "command": "node"
+    },
+    "openapi-mcp-server": {
+      "args": [
+        "/home/tdvorak/openapi-mcp-server/src/index.ts",
+        "/home/tdvorak/openapi-mcp-server/examples/openapi/versions/3.1/simple/openapi.yml"
+      ],
+      "command": "bun",
+      "disabled": false,
+      "env": {
+        "BASE_URL": "http://localhost:8080/api/v1",
+        "HEADERS": "{\"Content-Type\": \"application/json\", \"User-Agent\": \"openapi-mcp-server\"}"
+      }
+    },
+    "radix-ui": {
+      "args": [
+        "@gianpieropuleo/radix-mcp-server@latest"
+      ],
+      "command": "npx",
+      "env": {
+        "GITHUB_PERSONAL_ACCESS_TOKEN": "YOURTOKEN"
+      }
+    },
+    "shadcn": {
+      "args": [
+        "shadcn@latest",
+        "mcp"
+      ],
+      "command": "npx"
+    },
+    "stitch": {
+      "url": "https://stitch.googleapis.com/mcp",
+      "headers": {
+        "X-Goog-Api-Key": "YOURTOKEN"
+      }
+    }
+  }
+}
