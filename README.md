@@ -1,23 +1,55 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" height="30px" width="30px"> I'm Tomas Dvorak</h1>
-<h3 align="center">AI-Powered Product Builder & Systems Architect</h3>
-
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=Dvorinka">
-    <img src="https://komarev.com/ghpvc/?username=Dvorinka&label=Profile%20views&color=00FFFF&style=flat-square" alt="Dvorinka's profile views" />
-  </a>
-</p>
-
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <a href="https://github.com/Dvorinka">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dvorinka&cache_seconds=7200&layout=compact&theme=github_dark&border_radius=10" alt="Dvorinka's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=Dvorinka&theme=github_dark&hide_border=true&cache_seconds=86400" alt="Dvorinka's GitHub Streak" width="49%" />
-</p>
 <div align="center">
-  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
+
+```txt
+    .....                 ....          
+ .H8888888h.  ~-.     .xH888888Hx.      
+ 888888888888x  `>  .H8888888888888:    
+X~     `?888888hx~  888*"""?""*88888X   
+'      x8.^"*88*"  'f     d8x.   ^%88k  
+ `-:- X8888x       '>    <88888X   '?8  
+      488888>       `:..:`888888>    8> 
+    .. `"88*               `"*88     X  
+  x88888nX"      .    .xHHhx.."      !  
+ !"*8888888n..  :    X88888888hx. ..!   
+'    "*88888888*    !   "*888888888"    
+        ^"***"`            ^"***"`      
+````
+
+# Tomáš Dvořák
+
+Full Stack Developer
+Building scalable apps, SaaS platforms, automation tools & real-time systems.
+
+[![Portfolio](https://www.shieldcn.dev/badge/Portfolio-tdvorak.dev-111827.svg?logo=vercel\&variant=secondary\&size=sm)](https://tdvorak.dev)
+[![GitHub](https://www.shieldcn.dev/badge/GitHub-%40Dvorinka-181717.svg?logo=github\&variant=secondary\&size=sm)](https://github.com/Dvorinka)
+[![LinkedIn](https://www.shieldcn.dev/badge/LinkedIn-tdvorak--dev-0A66C2.svg?logo=linkedin\&variant=secondary\&size=sm)](https://linkedin.com/in/tdvorak-dev)
+[![X](https://www.shieldcn.dev/x/follow/TDv0rak.svg?variant=secondary\&size=sm)](https://x.com/TDv0rak)
+
+[![Followers](https://www.shieldcn.dev/github/followers/Dvorinka.svg?variant=secondary\&size=sm)](https://github.com/Dvorinka?tab=followers)
+[![Stars](https://www.shieldcn.dev/github/user-stars/Dvorinka.svg?variant=secondary\&size=sm)](https://github.com/Dvorinka?tab=repositories)
+
 </div>
 
+---
 
-## 🔗 Connect with Me
-<p align="center"><a href="https://www.linkedin.com/in/tdvorak-dev/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://x.com/TDv0rak" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Twitter.svg" alt="Twitter" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:info@tdvorak.dev" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://tdvorak.dev" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WWW.svg" alt="Website" width="40" height="40" style="margin: 0 8px;"/></a></p>
+## Stack
+
+![Go](https://www.shieldcn.dev/badge/Go-00ADD8.svg?logo=go\&variant=branded\&size=sm)
+![React](https://www.shieldcn.dev/badge/React-61DAFB.svg?logo=react\&variant=branded\&size=sm)
+![TypeScript](https://www.shieldcn.dev/badge/TypeScript-3178C6.svg?logo=typescript\&variant=branded\&size=sm)
+![TailwindCSS](https://www.shieldcn.dev/badge/TailwindCSS-06B6D4.svg?logo=tailwindcss\&variant=branded\&size=sm)
+![JavaScript](https://www.shieldcn.dev/badge/JavaScript-F7DF1E.svg?logo=javascript\&variant=branded\&size=sm)
+![Rust](https://www.shieldcn.dev/badge/Rust-000000.svg?logo=rust\&variant=branded\&size=sm)
+
+![PostgreSQL](https://www.shieldcn.dev/badge/PostgreSQL-4169E1.svg?logo=postgresql\&variant=branded\&size=sm)
+![Redis](https://shieldcn.dev/badge/Redis-FF4438.svg?logo=redis&logoColor=fff&variant=branded)
+
+![Docker](https://www.shieldcn.dev/badge/Docker-2496ED.svg?logo=docker\&variant=branded\&size=sm)
+![Linux](https://www.shieldcn.dev/badge/Linux-FCC624.svg?logo=linux\&variant=branded\&size=sm)
+
+![Railway](https://shieldcn.dev/badge/Deployed%20on-Railway-0B0D0E.svg?logo=railway&logoColor=fff&variant=branded)
+![Deployed on Vercel](https://shieldcn.dev/badge/Deployed%20on-Vercel-000000.svg?logo=vercel&logoColor=fff&variant=branded)
+
+![Built with OpenAI](https://shieldcn.dev/badge/Built%20with-OpenAI-412991.svg?logo=ri%3ASiOpenai&variant=secondary)
+
+---
