@@ -51,5 +51,11 @@ Building scalable apps, SaaS platforms, automation tools & real-time systems.
 ![Deployed on Vercel](https://shieldcn.dev/badge/Deployed%20on-Vercel-000000.svg?logo=vercel&logoColor=fff&variant=branded)
 
 ![Built with OpenAI](https://shieldcn.dev/badge/Built%20with-OpenAI-412991.svg?logo=ri%3ASiOpenai&variant=secondary)
+![Built with DevinAI](https://shieldcn.dev/badge/Built%20with-DevinAI-412991.svg?logo=ri%3ASiDevinAI&variant=secondary)
 
 ---
+
+
+<p align="center">
+  <img alt="chart" src="https://shieldcn.dev/chart/github/commits/Dvorinka.svg" />
+</p>
