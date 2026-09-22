@@ -20,13 +20,13 @@ X~     `?888888hx~  888*"""?""*88888X
 Full Stack Developer
 Building scalable apps, SaaS platforms, automation tools & real-time systems.
 
-[![Portfolio](https://www.shieldcn.dev/badge/Portfolio-tdvorak.dev-111827.svg?logo=vercel\&variant=secondary\&size=sm)](https://tdvorak.dev)
-[![GitHub](https://www.shieldcn.dev/badge/GitHub-%40Dvorinka-181717.svg?logo=github\&variant=secondary\&size=sm)](https://github.com/Dvorinka)
-[![LinkedIn](https://www.shieldcn.dev/badge/LinkedIn-tdvorak--dev-0A66C2.svg?logo=linkedin\&variant=secondary\&size=sm)](https://linkedin.com/in/tdvorak-dev)
-[![X](https://www.shieldcn.dev/x/follow/TDv0rak.svg?variant=secondary\&size=sm)](https://x.com/TDv0rak)
+[![Portfolio](https://shieldcn.dev/badge/Portfolio-tdvorak.dev-111827.svg?variant=secondary&logo=vercel)](https://tdvorak.dev)
+[![GitHub](https://shieldcn.dev/badge/GitHub-%40Dvorinka-181717.svg?variant=secondary&logo=github)](https://github.com/Dvorinka)
+[![LinkedIn](https://shieldcn.dev/badge/LinkedIn-tdvorak--dev-0A66C2.svg?variant=secondary&logo=linkedin)](https://linkedin.com/in/tdvorak-dev)
+[![X](https://shieldcn.dev/x/follow/TDv0rak.svg?variant=secondary)](https://x.com/TDv0rak)
 
-[![Followers](https://www.shieldcn.dev/github/followers/Dvorinka.svg?variant=secondary\&size=sm)](https://github.com/Dvorinka?tab=followers)
-[![Stars](https://www.shieldcn.dev/github/user-stars/Dvorinka.svg?variant=secondary\&size=sm)](https://github.com/Dvorinka?tab=repositories)
+[![Followers](https://shieldcn.dev/github/followers/Dvorinka.svg?variant=secondary)](https://github.com/Dvorinka?tab=followers)
+[![Stars](https://shieldcn.dev/github/user-stars/Dvorinka.svg?variant=secondary)](https://github.com/Dvorinka?tab=repositories)
 
 </div>
 
@@ -34,27 +34,31 @@ Building scalable apps, SaaS platforms, automation tools & real-time systems.
 
 ## Stack
 
-![Go](https://www.shieldcn.dev/badge/Go-00ADD8.svg?logo=go\&variant=branded\&size=sm)
-![React](https://www.shieldcn.dev/badge/React-61DAFB.svg?logo=react\&variant=branded\&size=sm)
-![TypeScript](https://www.shieldcn.dev/badge/TypeScript-3178C6.svg?logo=typescript\&variant=branded\&size=sm)
-![TailwindCSS](https://www.shieldcn.dev/badge/TailwindCSS-06B6D4.svg?logo=tailwindcss\&variant=branded\&size=sm)
-![JavaScript](https://www.shieldcn.dev/badge/JavaScript-F7DF1E.svg?logo=javascript\&variant=branded\&size=sm)
-![Rust](https://www.shieldcn.dev/badge/Rust-000000.svg?logo=rust\&variant=branded\&size=sm)
+![Go](https://shieldcn.dev/badge/Go-00ADD8.svg?variant=branded&logo=go)
+![React](https://shieldcn.dev/badge/React-61DAFB.svg?variant=branded&logo=react)
+![TypeScript](https://shieldcn.dev/badge/TypeScript-3178C6.svg?variant=branded&logo=typescript)
+![TailwindCSS](https://shieldcn.dev/badge/TailwindCSS-06B6D4.svg?variant=branded&logo=tailwindcss)
+![JavaScript](https://shieldcn.dev/badge/JavaScript-F7DF1E.svg?variant=branded&logo=javascript)
+![Rust](https://shieldcn.dev/badge/Rust-000000.svg?variant=branded&logo=rust)
+![badge](https://shieldcn.dev/badge/-Kotlin-7F52FF.svg?logo=kotlin)
+![badge](https://shieldcn.dev/badge/-Vite-646CFF.svg?logo=vite)
+![badge](https://shieldcn.dev/badge/-Python-3776AB.svg?logo=python)
 
-![PostgreSQL](https://www.shieldcn.dev/badge/PostgreSQL-4169E1.svg?logo=postgresql\&variant=branded\&size=sm)
-![Redis](https://shieldcn.dev/badge/Redis-FF4438.svg?logo=redis&logoColor=fff&variant=branded)
+![PostgreSQL](https://shieldcn.dev/badge/PostgreSQL-4169E1.svg?variant=branded&logo=postgresql)
+![Redis](https://shieldcn.dev/badge/Redis-FF4438.svg?variant=branded&logo=redis&logoColor=fff)
 
-![Docker](https://www.shieldcn.dev/badge/Docker-2496ED.svg?logo=docker\&variant=branded\&size=sm)
-![Linux](https://www.shieldcn.dev/badge/Linux-FCC624.svg?logo=linux\&variant=branded\&size=sm)
+![Docker](https://shieldcn.dev/badge/Docker-2496ED.svg?variant=branded&logo=docker)
+![Linux](https://shieldcn.dev/badge/Linux-FCC624.svg?variant=branded&logo=linux)
+![badge](https://shieldcn.dev/badge/Android-3DDC84.svg?logo=android&color=3DDC84)
 
-![Railway](https://shieldcn.dev/badge/Deployed%20on-Railway-0B0D0E.svg?logo=railway&logoColor=fff&variant=branded)
-![Deployed on Vercel](https://shieldcn.dev/badge/Deployed%20on-Vercel-000000.svg?logo=vercel&logoColor=fff&variant=branded)
+![Railway](https://shieldcn.dev/badge/Deployed%20on-Railway-0B0D0E.svg?variant=branded&logo=railway&logoColor=fff)
+![Deployed on Vercel](https://shieldcn.dev/badge/Deployed%20on-Vercel-000000.svg?variant=branded&logo=vercel&logoColor=fff)
+![badge](https://shieldcn.dev/badge/Deployed%20on-Hetzner-000000.svg?logo=hetzner)
+![badge](https://shieldcn.dev/badge/Deployed%20on-Hostinger-000000.svg?logo=hostinger)
 
-![Built with OpenAI](https://shieldcn.dev/badge/Built%20with-OpenAI-412991.svg?logo=ri%3ASiOpenai&variant=secondary)
-![Built with DevinAI](https://shieldcn.dev/badge/Built%20with-DevinAI-412991.svg?logo=ri%3ASiDevinAI&variant=secondary)
+![Built with DevinAI](https://shieldcn.dev/badge/Built%20with-DevinAI-412991.svg?variant=secondary&color=ffffff)
 
 ---
-
 
 <p align="center">
   <img alt="chart" src="https://shieldcn.dev/chart/github/commits/Dvorinka.svg" />
