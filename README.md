@@ -58,6 +58,10 @@ Building scalable apps, SaaS platforms, automation tools & real-time systems.
 
 ![Built with DevinAI](https://shieldcn.dev/badge/Built%20with-DevinAI-412991.svg?variant=secondary&color=ffffff)
 
+<p align="center">
+  <a href="https://github.com/sponsors/Dvorinka"><img alt="sponsors" src="https://shieldcn.dev/github/sponsors/Dvorinka.svg?logo=githubsponsors&amp;color=d15d9c" /></a>
+</p>
+
 ---
 
 <p align="center">
